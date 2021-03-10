@@ -12,7 +12,7 @@ For each of you individually copy the checklist and check them of if it is done.
 
 - [ ] Accepted the Taiga invite
 
-- [ ] Do you check Slack regularly
+- [x] Do you check Slack regularly
 
 - [ ] Did you contact your team members
 
